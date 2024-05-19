@@ -14,6 +14,7 @@ li{
 img{
     width: 100%;
     vertical-align: top;
+    height: 80%;
 }
 
 /*wrap*/
@@ -39,7 +40,7 @@ img{
 #main #aside .logo{
     width: 100%;
     height: 100px;
-    background-color: #287eff;
+    background-color: #5197ff;
 }
 #main #aside .logo a{
     padding: 32px 37px;
@@ -390,7 +391,7 @@ img{
 #footer .footer3{
     width: 200px;
     height: 120px;
-    background-color: #1f5aff;
+    background-color: #6c93ff;
 }
 
 #footer .footer3 select{
