@@ -14,7 +14,7 @@ li{
 img{
     width: 100%;
     vertical-align: top;
-    height: 80%;
+    height: 68%;
 }
 
 /*wrap*/
@@ -33,14 +33,14 @@ img{
 #main #aside{
     width: 200px;
     height: 100%;
-    background-color: #4d6688;
+    background-color: #748fb4;
 }
 
 /*logo*/
 #main #aside .logo{
     width: 100%;
     height: 100px;
-    background-color: #5197ff;
+    background-color: #9fc5ff;
 }
 #main #aside .logo a{
     padding: 32px 37px;
@@ -52,23 +52,23 @@ img{
 #main #aside .nav{
     width: 100%;
     height: calc(100vh - 220px);
-    background-color: #add2fc;
+    background-color: #cee5ff;
     text-align: center;
 }
 #main #aside .nav > ul{}
 #main #aside .nav > ul > li{
     display: block;
-    background-color: #bdccff;
+    background-color: #d6dfff;
     position: relative;
 }
 #main #aside .nav > ul > li > a{
     padding: 10px;
     display: block;
-    background-color: #53c0ff;
+    background-color: #aae0ff;
     
 }
 #main #aside .nav > ul > li > a:hover{
-    background-color: #9fd4ff;
+    background-color: #c4e4ff;
    
 
 }
@@ -85,12 +85,12 @@ img{
 #main #aside .nav > ul > li > ul > li > a{
     padding: 10px;
     display: block;
-    background-color: #67c7ff;
+    background-color: #a7dfff;
     width: 100%;
     box-sizing: border-box;
 }
 #main #aside .nav > ul > li > ul > li > a:hover{
-    background-color: #8eccff;
+    background-color: #cbe7ff;
 
 }
 
@@ -118,7 +118,7 @@ img{
 }
 #main #contents .banner a{
     color:#fff;
-    background-color: #60a5ff;
+    background-color: #b0d2ff;
     padding: 10px 20px;
     display: inline-block;
     border-radius: 30px;
@@ -132,7 +132,7 @@ img{
 #main #contents .info{
     width: 100%;
     height: 35%;
-    background-color: #b3e1ff;
+    background-color: #d2edff;
     padding: 20px;
     box-sizing: border-box;
 
@@ -145,7 +145,7 @@ img{
 
 #main #contents .info .info-menu{
     padding: 10px;
-    background-color: #72afff;
+    background-color: #bfdbff;
     margin-bottom: 10px;
 }
 #main #contents .info p{
@@ -217,7 +217,7 @@ img{
 #main #contents .gallery{
     width: 100%;
     height: 35%;
-    background-color: #9ed8ff;
+    background-color: #dcf1ff;
     padding: 20px;
     box-sizing: border-box;
     position: relative;
@@ -226,7 +226,7 @@ img{
 #main #contents .gallery h3{
     font-size: 25px;
     color:#fff;
-    background-color: #80b7ff;
+    background-color: #b6d6ff;
     padding: 10px 20px;
     margin-bottom: 10px;
 }
@@ -253,7 +253,7 @@ img{
 #main #contents .link{
     width: 100%;
     height: 15%;
-    background-color: #a4d6ff;
+    background-color: #d2ebff;
     padding: 20px;
     box-sizing: border-box;
 }
@@ -266,13 +266,14 @@ img{
     width: 20%;
 }
 #main #contents .link ul li a{}
-#main #contents .link ul li span{}
+#main #contents .link ul li span{
+}
 
 /*slider*/
 #main #slider{
     width: calc(100% - 600px);
     height: calc(100vh - 120px);
-    background-color: #d1e5ff;
+    background-color: #dfedff;
     overflow: hidden;
 }
 #main #slider .sliderWrap{
@@ -292,7 +293,7 @@ img{
 #main #slider .sliderWrap .slider .text{
     width: 400px;
     height: 400px;
-    background-color: #a3daff;
+    background-color: #ceebff;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -333,7 +334,7 @@ img{
 #footer{
     width: 100%;
     height: 120px;
-    background-color: #94d8ff;
+    background-color: #bfe8ff;
     display: flex;
 
     overflow: hidden;
@@ -343,7 +344,7 @@ img{
 #footer .footer1{
     width: 200px;
     height: 120px;
-    background-color: #60cdff;
+    background-color: #a0e1ff;
 }
 #footer .footer1 h4{
     padding: 40px 38px;
@@ -359,7 +360,7 @@ img{
 #footer .footer2 .footer2-1{
     width: 100%;
     height: 60px;
-    background-color: #b5e9ff;
+    background-color: #c3edff;
     text-align: center;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -384,14 +385,14 @@ img{
 #footer .footer2 .footer2-2{
     width: 100%;
     height: 60px;
-    background-color: #69c3ff;
+    background-color: #9fd8ff;
     padding-top: 15px;
     box-sizing: border-box;
 }
 #footer .footer3{
     width: 200px;
     height: 120px;
-    background-color: #6c93ff;
+    background-color: #b3c7ff;
 }
 
 #footer .footer3 select{

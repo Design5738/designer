@@ -27,14 +27,14 @@ img{
 #aside{
     width: 200px;
     height: 650px;
-    background-color: #ffca8d;
+    background-color: #ffdeb8;
 }
 
 /*logo*/
 #aside .logo{
     width: 100%;
     height: 100px;
-    background-color: #ffa947;
+    background-color: #ffce96;
 }
 #aside .logo a{
     display: block;
@@ -45,7 +45,7 @@ img{
 #aside .nav{
     width: 100%;
     height: 550px;
-    background-color: rgb(255, 203, 136);
+    background-color: rgb(255, 226, 188);
     text-align: center;
 }
 #aside .nav > ul{    
@@ -56,13 +56,13 @@ img{
 }
 #aside .nav > ul > li > a{
     padding: 15px;
-    background-color: rgb(255, 190, 104);
+    background-color: rgb(255, 214, 159);
     display: inline-block;
     width: 100%;
     box-sizing: border-box;
 }
 #aside .nav > ul > li > a:hover{
-    background-color: rgb(231, 169, 88);
+    background-color: rgb(255, 216, 164);
 
 }
 #aside .nav > ul > li > ul{
@@ -72,12 +72,12 @@ img{
 #aside .nav > ul > li > ul > li > a{
     padding: 15px;
     display: inline-block;
-    background-color: rgb(255, 220, 175);
+    background-color: rgb(255, 237, 213);
     width: 100%;
     box-sizing: border-box;
 }
 #aside .nav > ul > li > ul > li > a:hover{
-    background-color: rgb(255, 232, 202);
+    background-color: rgb(255, 241, 223);
 
 }
 
@@ -97,7 +97,7 @@ img{
 #main #slider .sliderWrap{
     width: calc(100% - 230px);
     height: 400px;
-    background-color:  rgb(255, 174, 67);
+    background-color:  rgb(255, 213, 159);
 }
 #main #slider .sliderWrap .slider{
     height: 400px;
@@ -110,7 +110,7 @@ img{
     bottom: 0;
     padding: 20px 30px;
     width: 100%;
-    background-color: rgba(255, 196, 0, 0.5);
+    background-color: rgba(255, 208, 55, 0.5);
     
     box-sizing: border-box;
 }
@@ -142,7 +142,7 @@ img{
     width: 230px;
     height: 400px;
     background-image: url(../img/mb.jpg);
-    border: 12px solid #ffa844;
+    border: 12px solid #ffce96;
     box-sizing: border-box;
     display: flex;
     align-items: center;
@@ -151,7 +151,7 @@ img{
     transition: all 300ms;
 }
 #main #slider .banner:hover{
-    border: 1px solid #ffbf77;
+    border: 1px solid #ffd8ac;
 }
 
 #main #slider .banner h3{
@@ -161,7 +161,7 @@ img{
 
 }
 #main #slider .banner span{
-    color:#d3ffba;
+    color:#ffca7a;
 }
 #main #slider .banner a{
     padding: 10px 20px;
@@ -179,7 +179,7 @@ img{
 #main #contents .info{
     width: 50%;
     height: 250px;
-    background-color: #ffb560;
+    background-color: #ffd8ab;
     padding: 20px;
     box-sizing: border-box;
     position: relative;
@@ -227,7 +227,7 @@ img{
     content: '';
     width: 5px;
     height: 5px;
-    background-color: #ffc27d;
+    background-color: #ffdbb2;
     position: absolute;
     left: 0;
     top: 13px;
@@ -257,7 +257,7 @@ img{
 #main #contents .gallery2{
     width: 50%;
     height: 250px;
-    background-color: #ffc17b;
+    background-color: #ffddb7;
     padding: 20px;
     box-sizing: border-box;
 }
@@ -286,7 +286,7 @@ img{
 #footer .footer1{
     width: 200px;
     height: 100px;
-    background-color: #ffa743;
+    background-color: #ffcc93;
 }
 #footer .footer1 h4{
     font-size: 25px;
@@ -298,21 +298,21 @@ img{
 #footer .footer2 .footer2-1{
     width: 100%;
     height: 50px;
-    background-color: #ffc98c;
+    background-color: #ffe5c7;
     padding: 20px 20px;
     box-sizing: border-box;
 }
 #footer .footer2 .footer2-2{
     width: 100%;
     height: 40px;
-    background-color: #ffb158;
+    background-color: #ffdaaf;
     padding-left: 20px;
     padding-top: 10px;
 }
 #footer .footer3{
     width: 230px;
     height: 100px;
-    background-color: #ffb25a;
+    background-color: #ffd8ab;
 }
 #footer .footer3 select{
     width: 80%;
